@@ -1,0 +1,9 @@
+Resolução nível 13
+1. Virar para a direita
+2. Repetir seis vezes os seguintes comandos na respectiva ordem:
+Colocar trilho
+Andar para frente
+3. Virar para a direita
+4. Repetir seis vezes os seguintes comandos na respectiva ordem:
+Colocar trilho
+Andar para frente
